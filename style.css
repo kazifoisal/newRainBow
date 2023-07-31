@@ -1,0 +1,12 @@
+.ball {
+    display: inline-block;
+    width: 50px;
+    height: 50px;
+    border-radius: 50%;
+    margin: 10px;
+    cursor: pointer;
+  }
+
+  .myList{
+    border: 2px solid white;
+}
